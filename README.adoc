@@ -1,5 +1,3 @@
 = Netacode
 
 This is a pool of funny sources
-
-== SAMPLE
